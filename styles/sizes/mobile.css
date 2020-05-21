@@ -1,0 +1,15 @@
+:root {
+    --padding-horizontal: 12pt;
+    --padding-vertical: 18pt;
+    --padding-between: 16pt;
+
+    --page-width: 100%;
+
+    --large-font-size: 22pt;
+    --medium-font-size: 16pt;
+    --small-font-size: 14pt;
+
+    --border-radius: 16pt;
+
+    --project-icon-size: 24pt;
+}
