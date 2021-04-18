@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://wilsongramer.github.io/sitemap.xml
